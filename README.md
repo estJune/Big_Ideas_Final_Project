@@ -1,9 +1,9 @@
 # Big_Ideas_Final_Project
  
-Team Name:
+Team Name: Miracle Workers
 
 Derrick Hicks | email: ddh32@pitt.edu
-
+Mark Bosco    | email: mab688@pitt.edu
 
 Dataset:
  Firearms Seizures: https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4?view_id=4c4fa4d5-71cd-4aa7-92e8-18206b9140a0&filters=total_count%3A1
