@@ -1,8 +1,13 @@
 # Big_Ideas_Final_Project
  
-Team Name:
+Team Name: Miracle Workers
+  
 
-Derrick Hicks | email: ddh32@pitt.edu
+Derrick Hicks
+ * email: ddh32@pitt.edu  
+
+Mark Bosco  
+ * email: mab688@pitt.edu  
 
 
 Dataset:
