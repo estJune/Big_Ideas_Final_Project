@@ -6,7 +6,7 @@ Derrick Hicks
  * Email: ddh32@pitt.edu  
  * Data Set: Firearms Seziures  
  * Link: https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4?view_id=4c4fa4d5-71cd-4aa7-92e8-18206b9140a0&filters=total_count%3A1  
- * Description:  
+ * Description:  This dataset reports the amount of firerarm(s) that Pittsburgh Police seized, the location of the incident, and the year that it happened.
 
 Mark Bosco  
  * Email: mab688@pitt.edu  
@@ -18,7 +18,7 @@ Sam Herbst
  * Email: srh104@pitt.edu  
  * Data Set: Police Arrests  
  * Link: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f  
- * Description:  
+ * Description:  This dataset includes arrests from Pittsburgh Police Bureau, listing details about the person who was arrested, location of the arrest, and the reason of why the person was arrested.
 
  Abstract:
 The best neighborhood? We chose to measure this by the safest neighborhood. To determine this, the datasets that were used were firearms seized, fires, and arrests in the Pittsburgh Metropolitain Area and used metrics that measured the total data from each set, locating the neighborhoods with the least amount of firearms seized, fires, and arrests. After each person sifted through each individual dataset, we came to the conclusion that Mount Oliver is the safest neighborhood based off our metrics, thus making it the best.
