@@ -21,3 +21,4 @@ Sam Herbst
  * Description:  
 
  Abstract:
+The best neighborhood? We chose to measure this by the safest neighborhood. To determine this, the datasets that were used were firearms seized, fires, and arrests in the Pittsburgh Metropolitain Area and used metrics that measured the total data from each set, locating the neighborhoods with the least amount of firearms seized, fires, and arrests. After each person sifted through each individual dataset, we came to the conclusion that Mount Oliver is the safest neighborhood based off our metrics, thus making it the best.
